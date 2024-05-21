@@ -8,7 +8,7 @@ It is recommended to create a `conda` environment with
 
  and install packages with
 
-`pip isntall numpy==2.26.4` \
+`pip install numpy==1.26.4` \
 `conda install -c conda-forge pyfmi==2.11.0` \
 `pip install notebook` \
 `pip install matplotlib`
